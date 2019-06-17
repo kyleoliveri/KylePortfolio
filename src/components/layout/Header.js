@@ -1,5 +1,6 @@
 import React from 'react'
 import "./assets/css/Header.css"
+import Aboutme from "./Aboutme"
 
 const Navbar = () => {
     return (
@@ -23,7 +24,7 @@ const Navbar = () => {
                 <li><a href="#">Contact</a></li>
             </ul>
 
-
+            <Aboutme />
 
         </div>
     )
