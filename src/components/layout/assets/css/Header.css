@@ -11,6 +11,10 @@
     box-shadow: none!important;
 }
 
+#Menu {
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
 @media screen and (max-width: 670px) {
     #backgroundImg {
         min-height: 500px;

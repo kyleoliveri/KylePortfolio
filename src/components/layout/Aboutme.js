@@ -9,7 +9,7 @@ const Aboutme = () => {
       });
     return (
         <div>
-
+            
             <div className="container">
                 <div className="row">
                     <div className="col s12 m12 l12">
@@ -17,7 +17,11 @@ const Aboutme = () => {
                             <div className="card-content center">
                                 <h3>Kyle Oliveri</h3>
                                 <h5>Web Developer</h5>
-                                <a className="waves-effect waves-light black btn modal-trigger" href="#modal1">Contact Me</a>
+                                <a href="https://github.com/kyleoliveri" target="_blank"><i id="FAIcon" className="fa fa-github-square fa-3x waves-effect waves-light"></i></a>
+                                <a href="https://www.linkedin.com/in/kyleOliveri/" target="_blank"><i id="FAIcon" className="fa fa-linkedin fa-3x waves-effect waves-light"></i></a>
+                                <a href="#" target="_blank"><i id="FAIcon" className="fa fa-file fa-2x waves-effect waves-light"></i></a>
+                                <hr />
+                                <a className="waves-effect waves-light btn modal-trigger" id="Contact" href="#modal1">Contact Me</a>
                             </div>
                         </div>
                     </div>

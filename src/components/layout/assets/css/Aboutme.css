@@ -1,3 +1,21 @@
 #aboutMe {
     background: rgba(9, 44, 9, 0.178);
 }
+
+#FAIcon {
+    margin: 10px;
+    color: black;
+}
+
+#FAIcon:hover {
+    color: rgb(5, 69, 5);
+}
+
+#Contact {
+    background: black;
+}
+
+#Contact:hover {
+    background: rgb(5, 69, 5);
+    color: white;
+}
