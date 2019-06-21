@@ -1,5 +1,6 @@
 #aboutMe {
     background: rgba(9, 44, 9, 0.178);
+    margin-top: 50px;
 }
 
 #FAIcon {
@@ -13,9 +14,31 @@
 
 #Contact {
     background: black;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
 }
 
 #Contact:hover {
     background: rgb(5, 69, 5);
     color: white;
+}
+
+#Name {
+    font-family: 'IBM Plex Serif', serif;
+}
+
+#Web {
+    font-family: 'IBM Plex Serif', serif;
+    font-style: italic;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    color: black;
+}
+
+@media screen and (max-width: 670px) {
+    p {
+        color: whitesmoke;
+    }
 }

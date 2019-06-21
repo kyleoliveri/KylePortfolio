@@ -5,10 +5,10 @@ import Aboutme from "./Aboutme"
 const Navbar = () => {
     return (
         <div id="backgroundImg">
-            <head>
-            <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed:400i&display=swap" rel="stylesheet"></link>
-            <script src="https://kit.fontawesome.com/2478e68568.js"></script>
-            </head>
+            <style>
+            @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif&display=swap');
+            @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed&display=swap');
+            </style>
         
             <nav className="transparent no-shadows">
                 <div className="nav-wrapper">

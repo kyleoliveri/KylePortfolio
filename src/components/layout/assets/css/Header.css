@@ -12,6 +12,10 @@
 }
 
 #Menu {
+    font-family: 'IBM Plex Serif', serif;
+}
+
+li {
     font-family: 'IBM Plex Sans Condensed', sans-serif;
 }
 
