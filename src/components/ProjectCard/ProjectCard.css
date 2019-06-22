@@ -21,3 +21,15 @@
 img {
     height: 200px;
 }
+
+@media (max-width: 1293px) {
+    .ProjectName {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 616px) {
+    .ProjectName {
+        font-size: 14px;
+    }
+}

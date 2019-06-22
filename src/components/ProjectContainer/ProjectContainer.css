@@ -1,16 +1,29 @@
 #ProjectBody {
     background: ghostwhite;
+    /* display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px; */
 }
 
-#Projects {
+#ProjectsTitle {
     font-family: 'IBM Plex Serif', serif;
-    margin-top: -20px;
-    padding: 20px; 
+    padding: 20px;
+    /* grid-column-start: 1;
+    grid-column-end: 4; */
+}
+
+.CardWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.CardWrapper .card {
+    flex-basis: 33%;
 }
 
 @media (min-width: 1100px) {
     .container {
-      padding: 0 100px;
       width: 1100px;
     }
   }

@@ -3,6 +3,8 @@ import './ProjectCard.css';
 
 const ProjectCard = props => {
     return (
+
+        
         <div className="card center" id="Cards">
             <div className="card-image">
                 <div className="card-image">
