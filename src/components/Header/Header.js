@@ -1,6 +1,6 @@
 import React from 'react'
-import "./assets/css/Header.css"
-import Aboutme from "./Aboutme"
+import "./Header.css"
+import Aboutme from "../Aboutme/Aboutme.js"
 
 const Navbar = () => {
     return (

@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react'
-import "./assets/css/Aboutme.css"
+import "./Aboutme.css"
 import M from 'materialize-css/dist/js/materialize.min.js';
 
 const Aboutme = () => {
