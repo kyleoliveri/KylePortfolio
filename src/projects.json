@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "name": "Anime Memory Game",
+        "image": "https://github.com/kyleoliveri/KylePortfolio/blob/master/src/assets/images/memorygame.png?raw=true",
+        "description": "The Anime Memory Game renders different images to the screen and upon each click on an image, the app renders the images in a new random order. The user’s score increments when clicking an image for the first time and resets after an incorrect guess.",
+        "link": "https://anime-memory-game.herokuapp.com/"
+    },
+    
+    {
+        "id": 2,
+        "name": "All The News",
+        "image": "https://github.com/kyleoliveri/KylePortfolio/blob/master/src/assets/images/allthenews.png?raw=true",
+        "description": "All the News is a web application created with React and Mongo DB that lets users click a single button to scrape news articles from Fox News.",
+        "link": "https://fast-bayou-43451.herokuapp.com"
+    },
+    
+    {
+        "id": 3,
+        "name": "GOT Theories?",
+        "image": "https://github.com/kyleoliveri/KylePortfolio/blob/master/src/assets/images/GotTheories.png?raw=true",
+        "description": "GOT Theories is a fun interactive application for Game of Thrones fans to post their own theories, as well as comment on other users theories. This application was part of a group project in which I was primarily responsible for the front-end design and development. This application was created with the help of HTML, CSS, Materialize, Javascript, jQuery, Node.js, Handlebars.js, Express, Firebase, MySQL, and Sequelize.",
+        "link": "https://mysterious-dusk-52843.herokuapp.com/"
+    },
+
+    {
+        "id": 4,
+        "name": "Bamazon",
+        "image": "https://github.com/kyleoliveri/KylePortfolio/blob/master/src/assets/images/bamazon.jpg?raw=true",
+        "description": "Bamazon is an application that simulates an Amazon store-front using Node.js and MySQL.",
+        "link": "https://drive.google.com/open?id=1J3ZIuD_ssbcylhJuKJarU_chFDsRgRAi"
+    },
+    
+    {
+        "id": 5,
+        "name": "Train Schedule",
+        "image": "https://github.com/kyleoliveri/KylePortfolio/blob/master/src/assets/images/train.jpg?raw=true",
+        "description": "This is a train schedule application that demonstrates storing data on a Firebase server. When the user adds a new train to the schedule, the new schedule is appended to the list and pushed to the Firebase server. This application was created with the help of HTML, CSS, Materialize, Javascript, jQuery, Moment.js, and Firebase.",
+        "link": "https://kyleoliveri.github.io/Train-Activity/"
+    },
+    
+    {
+        "id": 6,
+        "name": "GifTastic",
+        "image": "https://github.com/kyleoliveri/KylePortfolio/blob/master/src/assets/images/GifTastic.png?raw=true",
+        "description": "GifTastic is an enjoyable application that uses the Giphy API to pull gifs of your choosing. The user is greeted with pre-generated buttons for several characters from The Office (becase c'mon... who doesn't love The Office?). You can choose to view some Michael Scott gifs, or add your own button for gifs you would like to see! The gifs are paused by default and are enable on click. GifTastic was created using HTML, CSS, Bootstrap, and jQuery.",
+        "link": "https://kyleoliveri.github.io/GifTastic/"
+    }
+]

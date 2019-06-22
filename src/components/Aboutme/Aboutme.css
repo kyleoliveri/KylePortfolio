@@ -37,6 +37,24 @@ p {
     color: black;
 }
 
+#modal1 {
+    padding: 25px;
+}
+
+#ContactMeModal {
+    font-family: 'IBM Plex Serif', serif;
+}
+
+#Send {
+    background: black;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+#Send:hover {
+    background: rgb(5, 69, 5);
+    color: white;
+}
+
 @media screen and (max-width: 670px) {
     p {
         color: whitesmoke;

@@ -1,19 +1,32 @@
-import React, { Fragment, useEffect } from 'react';
+import React, { Fragment, useEffect, Component } from 'react';
 import Header from "./components/Header/Header.js";
+import Footer from './components/Footer/Footer.js';
+import ProjectContainer from './components/ProjectContainer/ProjectContainer.js';
 
 import 'materialize-css/dist/css/materialize.min.css';
-import M from 'materialize-css/dist/js/materialize.min.js';
 
-const App = () => {
-  useEffect(() => {
-    //Init Materialize JS
-    M.AutoInit();
-  });
-  return (
-    <Fragment>
-      <Header />
-    </Fragment>
-  );
+class App extends Component {
+
+  render() {
+
+    return (
+      <Fragment>
+        
+        <header>
+          <Header />
+        </header>
+
+        <main>
+          <ProjectContainer />
+        </main>
+
+        <footer>
+          <Footer />
+        </footer>
+
+      </Fragment>
+    );
+  }
 }
 
 export default App;
