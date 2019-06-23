@@ -1,7 +1,6 @@
 import React, { useEffect, Component } from 'react'
 import "./Aboutme.css"
-import M from 'materialize-css/dist/js/materialize.min.js';
-import axios from 'axios';
+import axios from 'axios'
 
 class Aboutme extends Component {
 
@@ -95,7 +94,7 @@ class Aboutme extends Component {
                                 </div>
                             </div>
 
-                            <a className="waves-effect waves-light btn" id="Send" href="#modal1">Send</a>
+                            <a className="waves-effect waves-light btn" onClick={this.handleSubmit} id="Send" href="#modal1">Send</a>
 
                         </form>
                     </div>
