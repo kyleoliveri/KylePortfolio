@@ -1,8 +1,5 @@
 #ProjectBody {
-    background: ghostwhite;
-    /* display: grid;
-    grid-template-columns: auto auto auto;
-    grid-gap: 10px; */
+    
 }
 
 #ProjectsTitle {
@@ -16,6 +13,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    padding: 18px;
 }
 
 .CardWrapper .card {

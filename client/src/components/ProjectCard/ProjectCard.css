@@ -4,7 +4,6 @@
     height: 300px;
     width: 350px;
     max-width: 350px;
-    
 }
 
 .ProjectName {
@@ -22,7 +21,7 @@ img {
     height: 200px;
 }
 
-@media (max-width: 1293px) {
+@media (max-width: 1346px) {
     .ProjectName {
         font-size: 20px;
     }
