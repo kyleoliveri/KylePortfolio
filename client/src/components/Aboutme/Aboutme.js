@@ -59,7 +59,7 @@ class Aboutme extends Component {
                                         <h5 id="Web">Web Developer</h5>
                                         <a href="https://github.com/kyleoliveri" target="_blank"><i id="FAIcon" className="fa fa-github-square fa-3x waves-effect waves-light"></i></a>
                                         <a href="https://www.linkedin.com/in/kyleOliveri/" target="_blank"><i id="FAIcon" className="fa fa-linkedin fa-3x waves-effect waves-light"></i></a>
-                                        <a href="https://drive.google.com/open?id=1LYrI3ZdhEwfWeBoK540CN2CydbUWCGgQ1pwfxZqj_60" target="_blank"><i id="FAIcon" className="fa fa-3x waves-effect waves-light"></i></a>
+                                        <a href="https://drive.google.com/file/d/1f0AS9E2sVU2Q9ftABuITdll3XA89939a/view" target="_blank"><i id="FAIcon" className="fa fa-3x waves-effect waves-light"></i></a>
                                         <p>Hi, my name is Kyle and I am a web developer based in Los Angeles, CA. I love to create, design, and develop convenient application for the web. Lets get in touch!</p>
                                         <hr />
                                         <a className="waves-effect waves-light btn modal-trigger" id="Contact" href="#modal1">Contact Me</a>
