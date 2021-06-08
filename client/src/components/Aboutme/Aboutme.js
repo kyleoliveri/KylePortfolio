@@ -31,14 +31,18 @@ class Aboutme extends Component {
                     <div className="card-content center">
                       <h3 id="Name">Kyle Oliveri</h3>
                       <h5 id="Web">Web Developer</h5>
+                      
+                      {/* GITHUB */}
                       <a href="https://github.com/kyleoliveri" target="_blank">
                         <i
                           id="FAIcon"
                           className="fa fa-github-square fa-3x waves-effect waves-light"
                         ></i>
                       </a>
+
+                      {/* LINKEDIN */}
                       <a
-                        href="https://www.linkedin.com/in/kyleOliveri/"
+                        href="https://www.linkedin.com/in/kyleOliveri"
                         target="_blank"
                       >
                         <i
@@ -46,8 +50,10 @@ class Aboutme extends Component {
                           className="fa fa-linkedin fa-3x waves-effect waves-light"
                         ></i>
                       </a>
+
+                      {/* RESUME */}
                       <a
-                        href="https://drive.google.com/file/d/1P-DD7jdtgIAvZwrBgHk7tssLmGv4QSCw/view"
+                        href=""
                         target="_blank"
                       >
                         <i
