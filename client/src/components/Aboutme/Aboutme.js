@@ -53,7 +53,7 @@ class Aboutme extends Component {
 
                       {/* RESUME */}
                       <a
-                        href=""
+                        href="https://github.com/kyleoliveri/KylePortfolio/blob/master/client/src/assets/resume/KyleOliveri_Dev2021_Rev3%20(1).pdf"
                         target="_blank"
                       >
                         <i
@@ -89,8 +89,9 @@ class Aboutme extends Component {
                   id="contactForm"
                   method="POST"
                   className="col s12"
-                  action="https://script.google.com/macros/s/AKfycbyQGb1fIDxvpr-dVSmSgVbkdU5pSfGRNGSirFyo/exec"
+                  action="https://script.google.com/macros/s/AKfycbzT_2ezj0CzT_Y1xPS1WU7o6-1MnlBYYg4QUZKJhj1emClHf90/exec"
                 >
+                  <div className="form-elements">
                   <div className="row">
                     <div className="input-field col s12">
                       <i className="material-icons prefix">account_circle</i>
@@ -100,10 +101,10 @@ class Aboutme extends Component {
                         type="text"
                         className="validate"
                       />
-                      <label for="formName">First Name</label>
+                      <label htmlFor="formName">First Name</label>
                     </div>
                   </div>
-
+                
                   <div className="row">
                     <div className="col s12">
                       <div className="input-field col s12">
@@ -114,7 +115,7 @@ class Aboutme extends Component {
                           type="email"
                           className="validate"
                         />
-                        <label for="email">Email</label>
+                        <label htmlFor="email">Email</label>
                       </div>
                     </div>
                   </div>
@@ -127,7 +128,7 @@ class Aboutme extends Component {
                         id="message"
                         type="text"
                       ></textarea>
-                      <label for="message"></label>
+                      <label htmlFor="message"></label>
                     </div>
                   </div>
 
@@ -138,13 +139,10 @@ class Aboutme extends Component {
                   >
                     Send
                   </button>
-
-                  <div style={{display:"none"}} className="thankyou_message">
-                    <h2>
-                      Thanks for contacting me! I will get back to you
-                      soon!
-                    </h2>
+                  
                   </div>
+
+                  <div id="status"></div>
 
                 </form>
 
