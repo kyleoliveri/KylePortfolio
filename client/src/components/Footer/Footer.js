@@ -16,7 +16,7 @@ const Footer = () => {
                     </div> 
                 <div className="footer-copyright black-text">
                     <div className="container center">
-                    <div>© 2019 Copyright Kyle Oliveri</div>
+                    <div>© 2021 Copyright Kyle Oliveri</div>
                     </div>
                 </div>
             </footer>

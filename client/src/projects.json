@@ -43,7 +43,7 @@
         "id": 6,
         "name": "GifTastic",
         "image": "https://github.com/kyleoliveri/KylePortfolio/blob/master/client/src/assets/images/GifTastic.png?raw=true",
-        "description": "GifTastic is an enjoyable application that uses the Giphy API to pull gifs of your choosing. The user is greeted with pre-generated buttons for several characters from The Office (becase c'mon... who doesn't love The Office?). You can choose to view some Michael Scott gifs, or add your own button for gifs you would like to see! The gifs are paused by default and are enable on click. GifTastic was created using HTML, CSS, Bootstrap, and jQuery.",
+        "description": "GifTastic is an enjoyable application that uses the Giphy API to pull gifs of your choosing. GifTastic uses HTML, CSS, Bootstrap, and jQuery.",
         "link": "https://kyleoliveri.github.io/GifTastic/"
     }
 ]

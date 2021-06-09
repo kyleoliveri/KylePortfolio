@@ -101,7 +101,7 @@ class Aboutme extends Component {
                         type="text"
                         className="validate"
                       />
-                      <label htmlFor="formName">First Name</label>
+                      <label htmlFor="formName">Name</label>
                     </div>
                   </div>
                 
