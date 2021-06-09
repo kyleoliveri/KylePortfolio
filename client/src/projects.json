@@ -28,7 +28,7 @@
         "name": "Contact Keeper",
         "image": "https://raw.githubusercontent.com/kyleoliveri/KylePortfolio/master/client/src/assets/images/ContactKeeper.JPG",
         "description": "A full stack MERN contact manager with React hooks, context & JWT authentication.",
-        "link": "https://aqueous-scrubland-08412.herokuapp.com/login"
+        "link": "https://aqueous-scrubland-08412.herokuapp.com/"
     },
     
     {
