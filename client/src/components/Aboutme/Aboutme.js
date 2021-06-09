@@ -53,7 +53,7 @@ class Aboutme extends Component {
 
                       {/* RESUME */}
                       <a
-                        href="https://github.com/kyleoliveri/KylePortfolio/blob/master/client/src/assets/resume/KyleOliveri_Dev2021_Rev3%20(1).pdf"
+                        href="https://drive.google.com/file/d/1M3SF4STM0BdE9NhcJDQxom05rlRGI826/view?usp=sharing"
                         target="_blank"
                       >
                         <i
