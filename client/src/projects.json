@@ -9,10 +9,10 @@
     
     {
         "id": 2,
-        "name": "All The News",
-        "image": "https://github.com/kyleoliveri/KylePortfolio/blob/master/client/src/assets/images/allthenews.png?raw=true",
-        "description": "All the News is a web application created with React and Mongo DB that lets users click a single button to scrape news articles from Fox News.",
-        "link": "https://fast-bayou-43451.herokuapp.com"
+        "name": "Contact Keeper",
+        "image": "https://raw.githubusercontent.com/kyleoliveri/KylePortfolio/master/client/src/assets/images/ContactKeeper.JPG",
+        "description": "A full stack MERN contact manager with React hooks, context & JWT authentication.",
+        "link": "https://aqueous-scrubland-08412.herokuapp.com/"
     },
     
     {
@@ -25,10 +25,10 @@
 
     {
         "id": 4,
-        "name": "Contact Keeper",
-        "image": "https://raw.githubusercontent.com/kyleoliveri/KylePortfolio/master/client/src/assets/images/ContactKeeper.JPG",
-        "description": "A full stack MERN contact manager with React hooks, context & JWT authentication.",
-        "link": "https://aqueous-scrubland-08412.herokuapp.com/"
+        "name": "All The News",
+        "image": "https://github.com/kyleoliveri/KylePortfolio/blob/master/client/src/assets/images/allthenews.png?raw=true",
+        "description": "All the News is a web application created with React and Mongo DB that lets users click a single button to scrape news articles from Fox News.",
+        "link": "https://fast-bayou-43451.herokuapp.com"
     },
     
     {

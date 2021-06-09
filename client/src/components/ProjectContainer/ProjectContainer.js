@@ -15,6 +15,7 @@ class ProjectContainer extends Component {
             <div className="container scrollspy" id="ProjectBody">
                 <div id="ProjectsTitle">
                     <h1 className="center ProjectsTitle">Projects</h1>
+                    <p className="center">Feel free to have a look at some samples of my work. The project titles will bring you to the application.</p>
                     <hr />
                 </div>
 
