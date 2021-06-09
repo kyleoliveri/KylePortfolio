@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "GifTastic",
-        "image": "https://github.com/kyleoliveri/KylePortfolio/blob/master/client/src/assets/images/GifTastic.png?raw=true",
+        "image": "https://github.com/kyleoliveri/KylePortfolio/blob/master/client/src/assets/images/Gif.JPG?raw=true",
         "description": "GifTastic is an enjoyable application that uses the Giphy API to pull gifs of your choosing. GifTastic uses HTML, CSS, Bootstrap, and jQuery.",
         "link": "https://kyleoliveri.github.io/GifTastic/"
     }
