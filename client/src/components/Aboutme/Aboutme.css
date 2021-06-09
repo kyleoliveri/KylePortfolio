@@ -1,6 +1,11 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 #aboutMe {
     background: rgba(9, 44, 9, 0.178);
-    margin-top: 50px;
+    margin-top: 150px;
+    border-radius: 15px 50px;
 }
 
 #FAIcon {
@@ -15,6 +20,7 @@
 #Contact {
     background: black;
     font-family: 'IBM Plex Sans Condensed', sans-serif;
+    border-radius: 5px;
 }
 
 #Contact:hover {
@@ -23,18 +29,21 @@
 }
 
 #Name {
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 
 #Web {
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Montserrat', sans-serif;
     font-style: italic;
+    font-weight: bold;
 }
 
 p {
     font-size: 18px;
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: black;
+    font-weight: bold;
 }
 
 #modal1 {
@@ -42,12 +51,12 @@ p {
 }
 
 #ContactMeModal {
-    font-family: 'IBM Plex Serif', serif;
+    
 }
 
 #Send {
     background: black;
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    border-radius: 5px;
 }
 
 #Send:hover {

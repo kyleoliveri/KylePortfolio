@@ -7,23 +7,6 @@ class Aboutme extends Component {
 
         return (
           <div>
-            <style>
-              @import
-              url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif&display=swap');
-              @import
-              url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif:400i&display=swap');
-              @import
-              url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed&display=swap');
-            </style>
-
-            <head>
-              <link
-                href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css"
-                rel="stylesheet"
-                type="text/css"
-              />
-            </head>
-
             <div className="container">
               <div className="row">
                 <div className="col s12 m12 l12">

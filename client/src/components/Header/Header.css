@@ -11,11 +11,11 @@
 }
 
 #Menu {
-    font-family: 'IBM Plex Serif', serif;
+    font-weight: bold;
 }
 
 li {
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+font-weight: bold;
 }
 
 @media screen and (max-width: 670px) {

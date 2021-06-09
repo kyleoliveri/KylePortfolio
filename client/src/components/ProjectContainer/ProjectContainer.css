@@ -3,10 +3,11 @@
 }
 
 #ProjectsTitle {
-    font-family: 'IBM Plex Serif', serif;
     padding: 20px;
-    /* grid-column-start: 1;
-    grid-column-end: 4; */
+}
+
+.ProjectsTitle {
+    font-weight: bold;
 }
 
 .CardWrapper {

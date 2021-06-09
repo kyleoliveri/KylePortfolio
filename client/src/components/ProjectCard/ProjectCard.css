@@ -8,8 +8,7 @@
 
 .ProjectName {
     color: black;
-    font-size: 28px;
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-size: 24px;
 }
 
 .ProjectName:hover {
@@ -24,6 +23,12 @@ img {
 @media (max-width: 1346px) {
     .ProjectName {
         font-size: 20px;
+    }
+}
+
+@media (max-width: 762px) {
+    .ProjectName {
+        font-size: 16px;
     }
 }
 
