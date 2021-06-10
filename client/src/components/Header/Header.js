@@ -21,7 +21,7 @@ const Navbar = () => {
                 <div className="nav-wrapper">
                     <a href="#" data-target="mobile-demo" className="sidenav-trigger black-text"><i className="material-icons">menu</i></a>
                     <ul className="right hide-on-med-and-down">
-                        <li><a href="#ProjectBody" className="black-text">Projects</a></li>
+                        {/* <li><a href="#ProjectBody" className="black-text">Projects</a></li> */}
                         <li><a href="#modal1" className="modal-trigger black-text">Contact</a></li>
                     </ul>
                 </div>
@@ -30,8 +30,8 @@ const Navbar = () => {
             <ul className="sidenav" id="mobile-demo">
                 <h3 className="center" id="Menu">Menu</h3>
                 <hr></hr>
-                <li><a href="#backgroundImg" className="">Home</a></li>
-                <li><a href="#ProjectBody">Projects</a></li>
+                {/* <li><a href="#backgroundImg" className="">Home</a></li> */}
+                {/* <li><a href="#ProjectBody">Projects</a></li> */}
                 <li><a className="modal-trigger" href="#modal1">Contact</a></li>
             </ul>
 

@@ -1,7 +1,7 @@
 import React, { Fragment, useEffect, Component } from 'react';
 import Header from "./components/Header/Header.js";
 import Footer from './components/Footer/Footer.js';
-import ProjectContainer from './components/ProjectContainer/ProjectContainer.js';
+// import ProjectContainer from './components/ProjectContainer/ProjectContainer.js';
 
 import 'materialize-css/dist/css/materialize.min.css';
 
@@ -15,10 +15,6 @@ class App extends Component {
         <header>
           <Header />
         </header>
-
-        <main>
-          <ProjectContainer />
-        </main>
 
         <footer>
           <Footer />

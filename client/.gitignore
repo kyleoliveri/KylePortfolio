@@ -1,1 +1,5 @@
 node_modules
+
+/src/components/ProjectCard
+/src/components/ProjectContainer
+/src/projects.json
