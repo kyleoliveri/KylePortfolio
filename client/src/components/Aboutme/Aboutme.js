@@ -49,7 +49,7 @@ class Aboutme extends Component {
                       <p>
                         Hi, my name is Kyle and I am a web developer based in
                         Los Angeles, CA. I love to create, design, and develop
-                        convenient application for the web. Lets get in touch!
+                        convenient applications for the web. Lets get in touch!
                       </p>
                       <hr />
                       <a
